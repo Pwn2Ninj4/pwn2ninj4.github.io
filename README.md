@@ -1,5 +1,3 @@
-![1](/assets/img/icon.jpeg)
-
 [Pwn-Blog](https://pwn2ninj4.github.io)
 
 
