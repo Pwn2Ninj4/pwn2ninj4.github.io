@@ -5,7 +5,6 @@ categories: [Infosec, Pwn]
 tags: [Infosec, WriteUps, Pwn]
 image: /assets/posts/Overflow-1/Overflow1.jpg
 ---
-![1](/assets/posts/Overflow-1/Overflow1.jpg)
 
 # Hola a todos!
 
